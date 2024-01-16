@@ -108,3 +108,5 @@ st.title("WordCloud en Streamlit")
 # Crear WordCloud para cada título
 for titulo in ['Business Analyst', 'Data Analyst', 'Data Engineer', 'Data Scientist']:
     crear_wordcloud_filtrado(titulo, palabras_interes)
+    st.write('---')
+    st.write('---')
