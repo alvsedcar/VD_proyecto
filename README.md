@@ -1,7 +1,11 @@
 # VD_proyecto
 
 En el presente documento detallamos las necesidades principales para ejecutar nuestro streamlit y cómo interactuar con él. Archivos necesarios para tener en carpeta local o repositorio de Github:
-(COPIAR ARCHIVOS QUE ESTÁN EN EL REPOSITORIO DE GITHUB ÁLVARO)
+- df
+- df_ba
+- df_da
+- df_de
+- df_ds
  
 •	St.py: hoja de Python donde se generan gráficas y todo lo relacionado con streamlit para visualización y worldcloud para poder representar las palabras más importantes de cada trabajo
 •	Vd-definitivo: tratamiento de datos y gráficas
